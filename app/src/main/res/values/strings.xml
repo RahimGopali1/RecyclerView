@@ -1,12 +1,43 @@
 <resources>
-    <string name="app_name">RecycleView</string>
-    <string name="action_settings">Reset</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="app_name">Recycler view</string>
+    <string name="recipe">
+    <strong> Ingredients </strong>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <br>1.0 Julienne Tbsp(6.0 gm) Cabbage</br>
+
+    <br>1.0 Chopped Tbsp(6.0 gm) Spring Onion</br>
+
+    <br>1.0 Chopped Tbsp(8.0 gm) Onion</br>
+
+    <br>1.0 Chopped Tbsp(8.0 gm) Garlic</br>
+
+    <br>1.0 Grated Tbsp(9.0 gm) Carrot</br>
+
+    <br>1.0 Grated Tbsp(10.0 gm) Paneer</br>
+
+    <br>1/2 Grated Tsp(0.94 gm) Ginger</br>
+
+    <br>1/2 Tsp(2.0 gm) Green Chilli Paste</br>
+
+    <br>1/4 Powder Tsp(0.75 gm) Black Pepper</br>
+
+    <br>1/8 Tsp(0.29 gm) Haldi</br>
+
+    <br>1/8 Tsp(0.54 gm) Salt</br>
+
+    <br>1.0 Tsp(3.0 ml) Oil</br>
+
+    <br>2.0 Tbsp(12.0 ml) Oil</br>
+
+    <br>15.0 Ml(15.0 ml) Water</br>
+
+    <br>2.0 Tbsp(17.0 gm) Wheat Flour (Whole)</br>
+
+    <br>1.0 Tbsp(7.0 gm) Maida</br>
+
+    <br>1/8 Tsp(0.54 gm) Salt</br>
+
+    <br>15.0 Ml(15.0 ml) Water</br>
+    </string>
+    <string name="recipes">Recipes</string>
 </resources>
