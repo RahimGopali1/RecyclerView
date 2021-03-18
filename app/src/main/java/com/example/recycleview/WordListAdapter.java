@@ -23,7 +23,7 @@ public class WordListAdapter extends
         public final TextView wordItemView;
         final WordListAdapter mAdapter;
 
-        public WordViewHolder(View itemView, WordListAdapter adapter) {
+        public WordViewHolder(@NonNull View itemView, WordListAdapter adapter) {
             super(itemView);
             wordItemView = itemView.findViewById(R.id.word);
             this.mAdapter = adapter;
